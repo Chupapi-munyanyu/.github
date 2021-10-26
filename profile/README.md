@@ -1,5 +1,7 @@
 # Hello everyone!
 
+![Drag Racing](siba-inu-sobaka-les.jpg )
+
 # We work with
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
